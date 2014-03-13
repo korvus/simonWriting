@@ -21,3 +21,7 @@ Download and take a look at test.html on your favorite browser, firefox. It cont
 ###Missing latin letters
 
 Į ė ų ū ğ ı ş
+
+###Licence
+
+SIL Open Font License (OFL)
