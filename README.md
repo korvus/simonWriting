@@ -12,7 +12,6 @@ Missing some of them, like Lituanian or Turquish.
 
 ###How it look like?
 
-https://raw.githubusercontent.com/korvus/simonWriting/master/preview.png
 Download and take a look at test.html on your favorite browser, firefox. It contains pangrams of main languages I quoted above.
 ![Preview SimonWriting](https://raw.github.com/korvus/simonWriting/master/preview.png)
 
