@@ -16,7 +16,7 @@ Download and take a look at test.html on your favorite browser, firefox. It cont
 
 ###Special characters
 
-. ! ? ; : ( ) { } - + _ [ ] / \ * " ' % < > = © $ € ¥ Ƀ #
+. ! ? ; : ( ) { } - + _ [ ] / \ * " ' % < > = © @ $ € ¥ Ƀ #
 
 ###Missing latin letters
 

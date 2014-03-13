@@ -1,0 +1,28 @@
+
+@GDEF_Simple = [\space \aminuscule \b \cminuscule \dminuscule \e.minuscule 
+	\f.minuscule \g \h.minuscule \i.minuscule \j.minuscule \k.minuscule 
+	\l.minuscule \m.minuscule \n.minuscule \o.minuscule \p.minuscule \q.minuscule 
+	\r.minuscule \s.minuscule \t.minuscule \u.minuscule \v.minuscule \w.minuscule 
+	\x.minuscule \y.minuscule \z.minuscule \amajuscule \majuscule \majuscule 
+	\majuscule \majuscule \majuscule \majuscule \majuscule \majuscule \majuscule 
+	\majuscule \majuscule \majuscule \majuscule \majuscule \majuscule \majuscule 
+	\majuscule \majuscule \majuscule \majuscule \majuscule \majuscule \majuscule 
+	\majuscule \majuscule \zero \numéro 1 \deux \three \quatre \numéro 5 
+	\numéro 6 \numéro 7 \huit \numéro 9 \point \euro \dollar \esperluette 
+	\latin minuscule é \egrave \edieresis \ecircumflex \ccedilla \icircumflex 
+	\ocircumflex \idieresis \odieresis \u \agrave \minuscule u tréma \o 
+	\parenthese \parenthese \crochet \crochet \accolade \accolade \signe égal 
+	\signe \signe \copyright \point \point \virgule \iminuscule \slash \antiSlash 
+	\double \arrobase \astérisque \aring \adieresis \z diacrité \scaron \aogonek 
+	\e \c \n \Aogonek \E \N \z \z \s \S \Z \S \lslash \L barré majuscule \Aring \Ccedilla 
+	\Adieresis \C \o \O \é majuscule \è majuscule \ê majuscule \ë majuscule \i \i 
+	\o \O \A \U \U \a \A \percent \underscore \dièse \n \N \plus \plus \apostrophe 
+	\minucule \acircumflex \minuscule \Majuscule \z \Z \deux \I \I \n \N \r \R \t \T \u \U \u 
+	\U \d \D \O barré minuscule \O barré majuscule \C \C \ae \A \e \E \beta \t \T \s \S 
+	\abreve \A \Le \bitcoin ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

@@ -83,7 +83,7 @@ SplineSet
  477 457 493 524 451 533 c 1
  394 450 260 445 260 304 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: b
@@ -127,7 +127,7 @@ SplineSet
  30 692 149 880 317 880 c 0
  376 880 441 857 510 800 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: dminuscule
@@ -155,7 +155,7 @@ SplineSet
  253 705 127 579 127 327 c 2
  127 324 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: e.minuscule
@@ -186,7 +186,7 @@ SplineSet
  536 639 370 695 370 586 c 0
  370 581 370 576 371 570 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: f.minuscule
@@ -218,11 +218,11 @@ SplineSet
  301 332 293 387 232 390 c 1
  263 331 244 222 300 188 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
-StartChar: g.minuscule
-Encoding: 8 -1 7
+StartChar: g
+Encoding: 8 103 7
 Width: 669
 LayerCount: 2
 Fore
@@ -258,7 +258,7 @@ SplineSet
  526 4 558 94 558 176 c 0
  558 256 528 328 446 344 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: h.minuscule
@@ -282,7 +282,7 @@ SplineSet
  63 405 30 629 30 838 c 0
  30 960 41 1078 74 1180 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: i.minuscule
@@ -302,7 +302,7 @@ SplineSet
  74 267 53 324 53 394 c 0
  53 441 63 494 71 552 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: j.minuscule
@@ -328,7 +328,7 @@ SplineSet
  187 321 139 455 139 564 c 0
  139 602 145 638 161 668 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: k.minuscule
@@ -364,7 +364,7 @@ SplineSet
  271 544 270 533 270 522 c 0
  270 466 290 430 339 423 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: l.minuscule
@@ -381,7 +381,7 @@ SplineSet
  30 419 40 484 42 529 c 0
  49 733 123 1002 195 1140 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: m.minuscule
@@ -412,7 +412,7 @@ SplineSet
  597 836 697 723 829 723 c 0
  861 723 895 730 932 747 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: n.minuscule
@@ -429,7 +429,7 @@ SplineSet
  68 542 171 721 348 827 c 1
  589 785 612 525 666 297 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: o.minuscule
@@ -456,7 +456,7 @@ SplineSet
  243 603 143 594 143 484 c 0
  143 465 146 442 153 416 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: p.minuscule
@@ -483,7 +483,7 @@ SplineSet
  355 734 283 672 283 537 c 2
  283 523 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: q.minuscule
@@ -510,7 +510,7 @@ SplineSet
  30 699 269 879 463 879 c 0
  562 879 650 832 688 716 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: r.minuscule
@@ -527,7 +527,7 @@ SplineSet
  211 768 424 879 591 879 c 0
  696 879 783 835 832 693 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: s.minuscule
@@ -552,7 +552,7 @@ SplineSet
  360 525 30 557 30 746 c 0
  30 783 43 826 73 878 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: t.minuscule
@@ -577,7 +577,7 @@ SplineSet
  71 965 l 2
  71 1032 75 1095 112 1124 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: u.minuscule
@@ -601,7 +601,7 @@ SplineSet
  181 276 30 376 30 567 c 0
  30 607 36 651 51 699 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: v.minuscule
@@ -617,7 +617,7 @@ SplineSet
  712 555 564 392 413 234 c 1
  177 307 74 515 30 781 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: w.minuscule
@@ -645,7 +645,7 @@ SplineSet
  178 421 30 515 30 757 c 0
  30 770 30 785 31 799 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: x.minuscule
@@ -674,7 +674,7 @@ SplineSet
  513 404 465 429 420 429 c 0
  365 429 315 392 291 313 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: y.minuscule
@@ -703,7 +703,7 @@ SplineSet
  32 520 30 545 30 568 c 0
  30 711 98 787 143 885 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: z.minuscule
@@ -730,7 +730,7 @@ SplineSet
  220 779 483 875 842 875 c 2
  859 875 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: amajuscule
@@ -756,7 +756,7 @@ SplineSet
  421 763 227 615 227 493 c 0
  227 466 236 441 260 417 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -788,7 +788,7 @@ SplineSet
  30 691 147 970 282 1040 c 1
  526 1040 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -812,7 +812,7 @@ SplineSet
  746 1041 852 1020 852 894 c 0
  852 873 849 849 843 822 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -837,7 +837,7 @@ SplineSet
  58 521 30 607 30 712 c 0
  30 804 51 909 60 1027 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -867,7 +867,7 @@ SplineSet
  555 1043 624 1024 624 934 c 0
  624 919 622 902 618 882 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -897,7 +897,7 @@ SplineSet
  36 615 101 916 219 1039 c 1
  379 1030 477 961 509 823 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -923,7 +923,7 @@ SplineSet
  438 986 519 1040 594 1040 c 0
  656 1040 713 1002 717 866 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -955,7 +955,7 @@ SplineSet
  38 431 30 522 30 626 c 0
  30 786 51 974 138 1044 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -981,7 +981,7 @@ SplineSet
  112 1066 273 1112 423 1112 c 0
  486 1112 547 1104 598 1087 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1008,7 +1008,7 @@ SplineSet
  153 860 96 865 66 897 c 1
  114 1051 339 1032 533 1041 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1032,7 +1032,7 @@ SplineSet
  236 877 170 728 167 516 c 1
  433 669 654 866 976 960 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1052,7 +1052,7 @@ SplineSet
  30 498 176 643 176 935 c 0
  176 968 174 1002 170 1040 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1077,7 +1077,7 @@ SplineSet
  30 642 48 788 48 916 c 0
  48 960 46 1001 40 1039 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1102,7 +1102,7 @@ SplineSet
  49 205 30 330 30 464 c 0
  30 688 85 932 157 1042 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1124,7 +1124,7 @@ SplineSet
  528 846 180 679 180 277 c 2
  180 255 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1158,7 +1158,7 @@ SplineSet
  125 835 97 805 52 805 c 0
  44 805 38 806 30 808 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1196,7 +1196,7 @@ SplineSet
  826 1080 933 1057 933 927 c 0
  933 905 930 880 924 852 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1224,7 +1224,7 @@ SplineSet
  30 726 117 980 270 1044 c 1
  454 1041 547 947 550 763 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1248,7 +1248,7 @@ SplineSet
  866 783 830 779 790 779 c 0
  618 779 360 883 222 941 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1278,7 +1278,7 @@ SplineSet
  75 904 30 919 30 977 c 0
  30 991 33 1007 37 1025 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1305,7 +1305,7 @@ SplineSet
  92 273 30 493 30 715 c 0
  30 826 46 936 80 1040 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1328,7 +1328,7 @@ SplineSet
  98 912 30 929 30 1010 c 0
  30 1019 31 1030 33 1040 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1356,7 +1356,7 @@ SplineSet
  97 60 30 317 30 591 c 0
  30 750 53 916 81 1040 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1385,7 +1385,7 @@ SplineSet
  186 833 286 732 346 723 c 1
  523 739 556 900 610 1040 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1415,7 +1415,7 @@ SplineSet
  497 616 658 683 658 818 c 2
  658 826 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: majuscule
@@ -1447,7 +1447,7 @@ SplineSet
  587 330 524 239 437 239 c 2
  426 239 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -1723,7 +1723,7 @@ SplineSet
  102 226 77 262 36 262 c 2
  30 262 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: euro
@@ -2237,7 +2237,7 @@ SplineSet
  692 428 692 433 691 438 c 1
  686 439 681 439 675 439 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: "minuscule u tr+AOkA-ma" 
@@ -2316,7 +2316,7 @@ SplineSet
  469 743 444 710 444 668 c 0
  444 647 450 625 465 603 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: parenthese
@@ -2338,7 +2338,7 @@ SplineSet
  206 864 265 857 265 821 c 0
  265 817 264 812 262 807 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: parenthese
@@ -2357,7 +2357,7 @@ SplineSet
  169 614 116 797 110 876 c 1
  120 876 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: crochet
@@ -2383,7 +2383,7 @@ SplineSet
  160 865 l 2
  213 865 260 861 273 821 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: crochet
@@ -2412,7 +2412,7 @@ SplineSet
  64 849 113 859 168 859 c 0
  211 859 257 853 293 853 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: accolade
@@ -2449,7 +2449,7 @@ SplineSet
  151 855 181 870 211 870 c 0
  228 870 245 865 261 854 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: accolade
@@ -2479,7 +2479,7 @@ SplineSet
  222 872 265 855 265 810 c 0
  265 748 176 706 157 660 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: "signe +AOkA-gal" 
@@ -2520,7 +2520,7 @@ SplineSet
  338 399 251 390 169 390 c 0
  110 390 54 395 35 398 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: signe
@@ -2548,7 +2548,7 @@ SplineSet
  291 528 l 2
  291 503 292 478 297 458 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: copyright
@@ -2612,7 +2612,7 @@ SplineSet
  32 328 86 389 146 389 c 2
  147 389 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: point
@@ -2647,7 +2647,7 @@ SplineSet
  286 953 301 894 301 835 c 0
  301 696 214 559 91 534 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: virgule
@@ -2687,7 +2687,7 @@ SplineSet
  30 136 53 165 73 179 c 1
  88 237 64 334 112 359 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -3032,7 +3032,7 @@ SplineSet
  354 650 l 2
  234 650 163 521 134 401 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: e
@@ -3117,7 +3117,7 @@ SplineSet
  37 299 30 410 30 514 c 0
  30 593 34 669 43 723 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: Aogonek
@@ -3157,7 +3157,7 @@ SplineSet
  596 748 583 876 551 982 c 1
  419 877 344 713 275 547 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: E
@@ -3232,7 +3232,7 @@ SplineSet
  629 402 571 616 571 818 c 0
  571 876 576 934 588 990 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: z
@@ -3260,7 +3260,7 @@ SplineSet
  30 633 l 1
  126 636 220 671 307 672 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: z
@@ -3301,7 +3301,7 @@ SplineSet
  426 932 605 1016 771 1016 c 2
  776 1016 l 2
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: s
@@ -3373,7 +3373,7 @@ SplineSet
  129 768 132 788 139 811 c 1
  188 843 240 879 305 880 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -3414,7 +3414,7 @@ SplineSet
  92 805 271 798 417 812 c 1
  533 822 655 821 765 823 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: S
@@ -3458,7 +3458,7 @@ SplineSet
  87 765 88 779 90 795 c 1
  125 831 172 846 220 846 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: lslash
@@ -3655,7 +3655,7 @@ SplineSet
  427 654 385 713 360 790 c 0
  356 804 345 812 327 812 c 2
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: C
@@ -3724,7 +3724,7 @@ SplineSet
  353 307 440 357 441 444 c 1
  414 501 361 520 290 520 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: O
@@ -3760,7 +3760,7 @@ SplineSet
  865 798 767 818 673 818 c 2
  662 818 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: "+AOkA majuscule" 
@@ -3938,7 +3938,7 @@ SplineSet
  83 79 30 267 30 465 c 0
  30 659 83 863 159 975 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: i
@@ -3967,7 +3967,7 @@ SplineSet
  96 726 110 858 122 987 c 1
  128 987 132 988 138 988 c 2
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: o
@@ -4002,7 +4002,7 @@ SplineSet
  760 177 1041 308 1103 690 c 1
  1007 730 893 752 781 752 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: O
@@ -4037,7 +4037,7 @@ SplineSet
  804 546 802 578 796 614 c 1
  726 694 646 728 568 728 c 2
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: A
@@ -4069,7 +4069,7 @@ SplineSet
  588 484 657 478 727 470 c 1
  701 646 676 822 481 880 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: U
@@ -4106,7 +4106,7 @@ SplineSet
  30 931 34 974 38 1018 c 1
  47 1020 56 1019 64 1019 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: U
@@ -4146,7 +4146,7 @@ SplineSet
  134 198 30 485 30 770 c 0
  30 840 36 909 50 977 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: a
@@ -4178,7 +4178,7 @@ SplineSet
  207 303 207 295 208 287 c 1
  352 301 431 380 445 524 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: A
@@ -4224,7 +4224,7 @@ SplineSet
  455 638 411 703 384 785 c 0
  380 800 368 810 348 810 c 0
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -4368,7 +4368,7 @@ SplineSet
  76 497 69 556 69 610 c 0
  69 670 78 723 116 752 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: N
@@ -4406,7 +4406,7 @@ SplineSet
  51 126 30 258 30 398 c 0
  30 630 88 884 163 998 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -4427,7 +4427,7 @@ SplineSet
  38 840 46 858 63 865 c 1
  212 850 351 752 463 673 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -4445,7 +4445,7 @@ SplineSet
  304 867 321 854 321 835 c 0
  321 785 199 691 177 640 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: apostrophe
@@ -4534,7 +4534,7 @@ SplineSet
  449 377 512 389 528 448 c 1
  518 452 508 454 498 454 c 2
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: minuscule
@@ -4583,7 +4583,7 @@ SplineSet
  461 -26 541 117 541 206 c 0
  541 248 524 277 475 280 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: Majuscule
@@ -4666,7 +4666,7 @@ SplineSet
  93 666 61 668 61 701 c 0
  61 734 169 785 236 786 c 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -4705,10 +4705,10 @@ SplineSet
  401 403 359 343 301 343 c 2
  294 343 l 1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
-StartChar: deux points
+StartChar: deux
 Encoding: 152 58 151
 Width: 261
 Flags: HW
@@ -4731,7 +4731,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: I accent aigu
+StartChar: I
 Encoding: 153 237 152
 Width: 322
 Flags: HW
@@ -4754,7 +4754,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: I accent aigu Majuscule
+StartChar: I
 Encoding: 154 205 153
 Width: 517
 Flags: HW
@@ -4787,7 +4787,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: n caron minuscule
+StartChar: n
 Encoding: 155 328 154
 Width: 482
 Flags: HW
@@ -4818,7 +4818,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: N caron majuscule
+StartChar: N
 Encoding: 156 327 155
 Width: 1081
 Flags: HW
@@ -4849,7 +4849,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: r minuscule Caron
+StartChar: r
 Encoding: 157 345 156
 Width: 428
 Flags: HW
@@ -4877,7 +4877,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: R majuscule Caron
+StartChar: R
 Encoding: 158 344 157
 Width: 1075
 Flags: HW
@@ -4911,7 +4911,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: t minuscule caron
+StartChar: t
 Encoding: 159 357 158
 Width: 537
 Flags: HW
@@ -4941,7 +4941,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: T majuscule caron
+StartChar: T
 Encoding: 160 356 159
 Width: 1013
 Flags: HW
@@ -4965,7 +4965,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: u rond en chef minuscule
+StartChar: u
 Encoding: 161 367 160
 Width: 472
 Flags: HW
@@ -5004,7 +5004,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: U rond en chef majuscule
+StartChar: U
 Encoding: 162 366 161
 Width: 612
 Flags: HW
@@ -5039,7 +5039,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: u accent aigu minuscule
+StartChar: u
 Encoding: 163 250 162
 Width: 886
 Flags: HW
@@ -5068,7 +5068,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: U accent aigu majuscule
+StartChar: U
 Encoding: 164 218 163
 Width: 1138
 Flags: HW
@@ -5096,7 +5096,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: d caron minuscule
+StartChar: d
 Encoding: 165 271 164
 Width: 636
 Flags: HW
@@ -5127,7 +5127,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: D caron majuscule
+StartChar: D
 Encoding: 166 270 165
 Width: 922
 Flags: HW
@@ -5229,7 +5229,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: C hatchek minuscule
+StartChar: C
 Encoding: 169 269 168
 Width: 501
 Flags: HW
@@ -5258,7 +5258,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: C hatchek majuscule
+StartChar: C
 Encoding: 170 268 169
 Width: 1043
 Flags: HW
@@ -5342,7 +5342,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: A dans le E majuscule
+StartChar: A
 Encoding: 172 198 171
 Width: 1185
 Flags: HW
@@ -5383,7 +5383,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: e caron minuscule
+StartChar: e
 Encoding: 173 283 172
 Width: 634
 Flags: HW
@@ -5414,7 +5414,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: E caron majuscule
+StartChar: E
 Encoding: 174 282 173
 Width: 1028
 Flags: HW
@@ -5452,10 +5452,10 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: scharfes S
+StartChar: beta
 Encoding: 175 946 174
 Width: 726
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -5481,7 +5481,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: t virgule souscrite minuscule
+StartChar: t
 Encoding: 176 539 175
 Width: 431
 Flags: HW
@@ -5515,7 +5515,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: T virgule souscrite majuscule
+StartChar: T
 Encoding: 177 538 176
 Width: 1178
 Flags: HW
@@ -5543,7 +5543,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: s virgule souscrite minuscule
+StartChar: s
 Encoding: 178 537 177
 Width: 556
 Flags: HW
@@ -5574,7 +5574,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: S virgule souscrite majuscule
+StartChar: S
 Encoding: 179 536 178
 Width: 500
 Flags: HW
@@ -5649,7 +5649,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: A bref majuscule
+StartChar: A
 Encoding: 181 258 180
 Width: 821
 Flags: HW
@@ -5690,7 +5690,7 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: Le yen
+StartChar: Le
 Encoding: 182 165 181
 Width: 1293
 Flags: HW
