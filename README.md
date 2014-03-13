@@ -24,4 +24,4 @@ Download and take a look at test.html on your favorite browser, firefox. It cont
 
 ###Licence
 
-SIL Open Font License (OFL)
+SIL Open Font Licence (OFL)
