@@ -6,7 +6,7 @@ Hand writing font of Korvus
 
 ###What is it?
 
-SimonFont is my personnal font I use for my comics strip... or more if need!
+SimonWriting is my personnal font I use for my comics strip... or more if need!
 I planed it for main latins alphabet, including French, Polish, Swedish, Czech, Spanish, Danish, German or Romanian.
 Missing some of them, like Lituanian or Turquish.
 
