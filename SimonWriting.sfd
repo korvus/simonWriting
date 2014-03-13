@@ -5452,10 +5452,10 @@ EndSplineSet
 Validated: 513
 EndChar
 
-StartChar: beta
-Encoding: 175 946 174
+StartChar: uni00df
+Encoding: 175 223 174
 Width: 726
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet

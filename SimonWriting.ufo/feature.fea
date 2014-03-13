@@ -18,8 +18,8 @@
 	\Adieresis \C \o \O \é majuscule \è majuscule \ê majuscule \ë majuscule \i \i 
 	\o \O \A \U \U \a \A \percent \underscore \dièse \n \N \plus \plus \apostrophe 
 	\minucule \acircumflex \minuscule \Majuscule \z \Z \deux \I \I \n \N \r \R \t \T \u \U \u 
-	\U \d \D \O barré minuscule \O barré majuscule \C \C \ae \A \e \E \beta \t \T \s \S 
-	\abreve \A \Le \bitcoin ];
+	\U \d \D \O barré minuscule \O barré majuscule \C \C \ae \A \e \E \uni00df \t \T \s 
+	\S \abreve \A \Le \bitcoin ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
