@@ -1,5 +1,5 @@
-SimonFont
-=========
+SimonWriting
+============
 
 Hand writing font of Korvus
 ---------------------------
